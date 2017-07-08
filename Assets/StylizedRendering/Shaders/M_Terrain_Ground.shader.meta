@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0e427b6a1bf6f2d409afc056a5b4c47c
+timeCreated: 1499328610
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Grass: {fileID: 2800000, guid: 77c290c91da637e4dac8bda324e7ac6b, type: 3}
+  - _Beach: {fileID: 2800000, guid: 2562a34eb2199c644abf8ca00127cc0f, type: 3}
+  - _Path: {fileID: 2800000, guid: 57bf6c44fb1e8294e9849a582ad7698b, type: 3}
+  - _T_BrushStrokes_B: {fileID: 2800000, guid: fd9c3cfc38884ca4ea04773e9edcefe2, type: 3}
+  - _T_Rock_Cliff_D: {fileID: 2800000, guid: 348bdef8d75d9f342b20a661621b4c2f, type: 3}
+  - _T_ShapeNormal: {fileID: 2800000, guid: 4ababeaf444f53f4ba03e958f03c828f, type: 3}
+  - _T_BrushStrokes_A_copy: {fileID: 2800000, guid: ed01e4adfc613864c84b06262fae2187,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
